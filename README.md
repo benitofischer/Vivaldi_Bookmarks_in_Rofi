@@ -1,4 +1,5 @@
-# scripts/vbm-open.sh
+# Vivaldi_Bookmarks_in_Rofi/vbm-open.sh
+
 Script to choose a vivaldi bookmark in rofi -dmenu and open the url in Vivaldi.
 Double Bookmarks will be sorted out.
 This script just reads the original Bookmark file but doesn't change it.
